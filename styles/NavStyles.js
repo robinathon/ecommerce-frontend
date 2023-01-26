@@ -8,6 +8,7 @@ export const NavStyles = styled.nav`
     font-size: 1rem;
     a {
         font-size: 1.2rem;
+        color: red;
     }
 `;
 
